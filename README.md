@@ -1,24 +1,32 @@
-# Bem-vindo(a) ao meu perfil! 👋
+<div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amaury-Bento&show_icons=true&theme=dark&hide_border=true)](https://github.com/Amaury-Bento)
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Amaury Bento;Front-End+Dev+%7C+Mobile+Developer;3D+Artist" alt="Typing SVG" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaury-Bento&layout=compact&theme=dark&hide_border=true)](https://github.com/Amaury-Bento)
-
----
-
-## 🛠️ Tecnologias que uso
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=4000&pause=2000&color=00B33C&center=true&vCenter=true&width=600&lines=%2F%2F+front-end+dev+%26bull%3B+mobile+developer+%26bull%3B+3d+artist" alt="subtitle" />
 
 ---
 
-## 📬 Me encontre
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amaury-Bento&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00b33c)](https://github.com/Amaury-Bento)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[victo_rbento])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaury-Bento&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00b33c)](https://github.com/Amaury-Bento)
+
+---
+
+**`// technologies`**
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00ff41)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00ff41)
+![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=00ff41)
+
+---
+
+**`// contact`**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:amauryvictorrr@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://instagram.com/victo_rbento)
+
+</div>
