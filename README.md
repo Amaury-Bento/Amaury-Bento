@@ -22,7 +22,7 @@
 
 **`// contact`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/amaury-bento-683865415)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/amaury-bento-683865415)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:amauryvictorrr@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://instagram.com/victo_rbento)
 
