@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Amaury Bento;Front-End+Dev+%7C+Mobile+Developer;3D+Artist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Amaury+Bento;Front-End+Dev+%7C+Mobile+Developer;3D+Artist" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=4000&pause=2000&color=00B33C&center=true&vCenter=true&width=600&lines=%2F%2F+front-end+dev+%26bull%3B+mobile+developer+%26bull%3B+3d+artist" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=4000&pause=2000&color=00B33C&center=true&vCenter=true&width=600&lines=%2F%2F+front-end+dev+%7C+mobile+developer+%7C+3d+artist" alt="subtitle" />
 
 ---
 
